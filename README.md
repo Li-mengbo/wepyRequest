@@ -1,5 +1,5 @@
 ## wepyRequest说明
-wepyRequest文档地址 [wepyReques](https://tencent.github.io/wepy/document.html)
+wepyRequest文档地址 [wepyReques](https://juejin.im/post/5c01046fe51d450da63d8f47)
 
 ## 调用方式
 
